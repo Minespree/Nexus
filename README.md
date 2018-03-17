@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/github/license/Minespree/Nexus.svg)](LICENSE)
 ![Documentation](https://img.shields.io/badge/docs-missing-red.svg)
 
-This is the code that powered the hubs of the former Minespree Network. This includes the game selector, game NPCs, settings and the game queue integration with [Feather](https://github.com/Minespree/Feather).
+This repo contains the code of the Bukkit plugin that powered the hubs of the former Minespree Network. This includes the game selector, game NPCs, settings and the game queue integration with [Feather](https://github.com/Minespree/Feather).
 
 Besides the removal of some branding and configuration data, it is more or less unmodified. It is probably not _directly_ useful to third parties in its current state, but it may be help in understanding how the Minespree network operated.
 
