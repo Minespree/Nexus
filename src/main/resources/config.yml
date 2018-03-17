@@ -1,0 +1,22 @@
+Spawns:
+  KoTL:
+    Pos1:
+      x: 94.5
+      y: 70.0
+      z: 42.5
+    Pos2:
+      x: 84.5
+      y: 81.0
+      z: 52.5
+    King:
+      x: 89.5
+      y: 78.0
+      z: 47.5
+    Outside:
+      x: 89.5
+      y: 70.0
+      z: 40.5
+    Leaderboard:
+      x: 99.5
+      y: 74.5
+      z: 47.5

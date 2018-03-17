@@ -1,0 +1,8 @@
+name: Nexus
+version: ${gitCommit}
+main: net.minespree.nexus.Nexus
+depend: [Myers, Wizard, FeatherPlugin, Pirate]
+
+commands:
+  spawn:
+    description: Send back to spawn.
